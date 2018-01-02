@@ -1,0 +1,21 @@
+.datetop{width:1920px;height:auto;position:relative;margin-left:-960px;left:50%;z-index:22}
+.datebox{width:1200px;margin:0 auto;position:relative;z-index:20;overflow:hidden;background-color:#fff;}
+.begin{height:50px;background-color:#E3E3E3;text-align:center;margin:20px 0 30px 0}
+.begin span{width:90px;height:34px;color:#fff;font-size:14px;text-align:center;display:inline-block;padding:8px 0;}
+.now{background-color:#F2457D;}
+.next{background-color:#8A4794;margin-left:-5px;}
+.datelist ul li{overflow:hidden;margin-bottom:30px}
+.datepic{width:600px;height:340px;overflow:hidden;}
+.datepic img{width:600px;height:340px}
+.datetext{border:1px solid #A7A7A7;width:598px;height:340px;}
+.djs{width:200px;text-align:center;height:26px;line-height:26px;color:#fff;background-color:#010101;font-size:14px;margin-left:200px;display:block;margin-top:-2px;}
+.datetext p{width:460px;line-height: 24px;height: 120px;overflow:hidden;margin:100px auto 0;font-size:14px;color:#5E5E5E;cursor:pointer}
+.datetext p i{color:#F2457D}
+.datetext p:hover{color:#F2457D;}
+.buynow{width:460px;margin:20px auto;overflow:hidden}
+.buynow .money{color:#000;font-size:30px;cursor:pointer}
+.quick{padding-left:5px;cursor:pointer}
+.buynow .quick span{width:50px;text-align:center;height:20px;background-color:#F2457D;color:#fff;font-size:12px;text-align:center;display:block;line-height:20px;}
+.buynow .quick del{font-size:12px;}
+.buynow .btn{width:86px;height:40px;line-height:40px;text-align:center;color:#fff;background-color:#F2457D;font-size:12px;}
+.datelist ul .last{margin-bottom:0;}

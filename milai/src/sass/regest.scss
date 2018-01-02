@@ -1,0 +1,32 @@
+.box{width:150px;height:60px;background-color:rgba(0,0,0,0.3);color:#fff;position:absolute;margin:auto;top:0;left:0;bottom:0;right:0;z-index:50}
+.regester{width:1200px;margin:0 auto;position:relative;z-index:10;overflow:hidden;height:800px;}
+.regbox{margin-top:100px;box-shadow: 0 0 20px #ccc;margin-right:10px}
+.regpic{width:780px;overflow:hidden}
+.regpic img{width:780px;}
+.regbox form{width:300px;padding: 20px 35px 70px;}
+.inputbox{margin-bottom:8px;}
+.text {line-eight:40px;font-size:12px;color:#666;line-height:40px;display:block;overflow:hidden;}
+.text i{float:left;}
+.text em{float:right;color:#f53d79;font-size:14px;font-weight:600;visibility:hidden}
+.inputbox input{height:40px;line-height:40px;border:1px solid #ccc;padding:0 5px;outline:none;width:100%;}
+.inputbox input:hover{border-color:#f53d79}
+.regbox form label{font-size:12px;color:#666;margin:20px 0;display:block}
+.regbox form label a{display:inline-block;color:#666;}
+.regbox form label a:hover{color:#f53d79}
+.regestbtn{margin:20px 0;}
+.regestbtn button{background-color::#f53d79;width:100%;height:40px;line-height:40px;text-align:center;border:0;outline:none;cursor:pointer;color:#fff;font-size:14px;}
+.more{font-size:12px;color:#666;overfloa:hidden;}
+.more a{font-size:12px;color:#666;display:inline-block;margin-left:5px;}
+/*登录*/
+.loginbar{position:relative;z-index:10}
+.logintitle{margin:50px;text-align:center;color:#f53d79;font-size:18px;}
+.inputtext input {width:100%;height:40px;line-height:40px;border:1px solid #ccc;padding:0 5px;}
+.inputtext input:hover{border-color:#f53d79}
+.inputtext{position:relative;font-size:12px;color:#666;margin-top:20px}
+.inputtext i{position:absolute;right:0;top:10px;}
+.inputtext p{font-size:14px;color:#f53d79;font-weight:600;line-height:30px;visibility:hidden}
+.loginbtn button{width:100%;height:40px;line-height:40px;text-aligin:center;background-color:#f53d79;font-size:14px;color:#fff;border:0;outline:none;cursor:pointer}
+.hz{margin:20px 0}
+.vip{font-size:12px;color:#666;}
+.vip a{display:inline-block;color:#f53d79;}
+

@@ -1,0 +1,180 @@
+.computer {
+  width: 1200px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 22;
+  background-color: #fff;
+  padding: 20px 0;
+}
+
+.top {
+  height: 50px;
+  line-height: 50px;
+  font-size: 12px;
+  color: #666;
+  background-color: #f4f4f4;
+  border: 1px solid #e3e3e3;
+  text-indent: 20px;
+}
+
+.top em:hover {
+  color: #F2457D;
+  cursor: pointer;
+}
+
+.brand {
+  box-sizing: border-box;
+  overflow: hidden;
+  padding-top: 10px;
+  border-bottom: 1px solid #e3e3e3;
+  border-left: 1px solid #e3e3e3;
+  border-right: 1px solid #e3e3e3;
+}
+
+.brand h4 {
+  float: left;
+  font-weight: normal;
+  color: #666;
+  width: 170px;
+  text-align: center;
+}
+
+.brand ul {
+  width: 850px;
+  margin: 0 auto;
+}
+
+.brand-list li {
+  height: 64px;
+  border: 1px solid #F4F4F4;
+  float: left;
+  position: relative;
+}
+
+.brand .more {
+  width: 178px;
+  font-size: 14px;
+  color: #666;
+  text-align: center;
+  cursor: pointer;
+}
+
+.more:hover {
+  color: #F2457D;
+}
+
+.brand-list li a img {
+  width: 90px;
+  height: 45px;
+  margin: 10px 12px;
+}
+
+.default {
+  height: 38px;
+  background-color: #f4f4f4;
+  border: 1px solid #e3e3e3;
+  margin-top: 15px;
+  font-size: 12px;
+  color: #666;
+  line-height: 38px;
+}
+
+.agree {
+  text-indent: 20px;
+  color: #F2457D;
+}
+
+.default > p {
+  width: 80px;
+  text-align: center;
+  border-right: 1px solid #e3e3e3;
+}
+
+.space {
+  margin-left: 30px;
+}
+
+.space input {
+  width: 70px;
+  height: 23px;
+  line-height: 23px;
+  border: 1px solid #e3e3e3;
+}
+
+.search1 {
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.only {
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.only:hover, .search1:hover, .page button:hover {
+  color: #F2457D;
+}
+
+.page button {
+  width: 30px;
+  height: 24px;
+  border: 1px solid #e3e3e3;
+  line-height: 24px;
+  text-align: center;
+  background-color: #f4f4f4;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.phone-list {
+  width: 1200px;
+  margin: 0 auto;
+  z-index: 22;
+  background-color: #fff;
+  padding: 10px 0;
+  position: relative;
+}
+
+.phone-list ul {
+  overflow: hidden;
+}
+
+.phone-list ul li {
+  width: 300px;
+  height: 400px;
+  float: left;
+}
+
+.phone-pic img {
+  width: 300px;
+  height: 300px;
+}
+
+.phone-list ul li .sale {
+  width: 270px;
+  overflow: hidden;
+  line-height: 30px;
+  padding: 0 15px;
+}
+
+.phone-list ul li .sale i {
+  font-size: 18px;
+  color: #fe0000;
+}
+
+.phone-list ul li .sale em, .phone-list ul li p {
+  font-size: 12px;
+  color: #5E5E5E;
+  line-height: 30px;
+}
+
+.sale em:hover, .phone-list ul li p:hover {
+  color: #F2457D;
+}
+
+.phone-list ul li p {
+  overflow: hidden;
+  height: 30px;
+  text-align: center;
+  padding: 0 10px;
+}

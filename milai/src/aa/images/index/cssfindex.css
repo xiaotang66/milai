@@ -1,0 +1,80 @@
+h2.title{line-height:22px;height:22px;background:url("/imelai/images/index/title.jpg") no-repeat left center}h2.title
+.more{right:0px;width:70px;height:20px}#imelaiNav{display:none}#headerCategoryItems{background-color:rgba(242,69,125,0.8)}#headerCategoryItems{display:block}#headerCategoryItems
+dl{border-bottom:1px inset rgba(255,251,239,0.1)}#homeBg{background-attachment:fixed;background-size:cover;background-position:center top}#indexFocus{position:relative;overflow:hidden}#indexFocus
+.focusCon{position:relative;width:2600px;height:490px;margin-left:-1300px;left:50%}#indexFocus .focusCon
+li{width:2600px;height:490px;position:relative}#indexFocus .focusCon li
+a.pic{display:block;width:100%;height:490px}#indexFocus .focusCon
+li.rand{position:absolute;left:0;top:0}#indexFocus .focusCon
+.btnBg{position:absolute;right:700px;width:auto;height:5px;text-align:center;bottom:50px}#indexFocus .focusCon
+.btn{line-height:28px;margin:0
+auto;text-align:center}#indexFocus .focusCon .btn
+span{display:inline-block;_display:inline;_zoom:1;width:25px;height:5px;cursor:pointer;background-color:#fff;margin:0
+5px}#indexFocus .focusCon .btn
+span.on{background:#F2457D;color:#fcc}#indexNewSale
+.title{background-position:0 -22px}#indexNewSaleAd .adTwo,.adThree{width:225px;border:1px
+solid #D4D4D4}#indexNewSaleAd
+img{display:block}#indexNewSaleMain li
+h6{height:16px;line-height:16px;overflow:hidden}#indexNewSaleMain
+li.space{margin-right:18px}#indexNewSaleMain li
+p{font-weight:bold}#indexNewSaleMain li
+a{width:225px;height:400px;overflow:hidden}#indexNewSaleMain li
+img{width:225px;height:340px}#indexNewSaleMain li:hover
+.sceneImg{display:none}#indexNewSaleMain li:hover
+.alternativeImg{display:block}#indexSupport
+.title{background-position:0 -44px}#indexSupportCover
+img{width:500px;height:640px}#indexSupportCover
+#supportDynamicInfo{background:rgba(255,255,255,0.8);width:360px;height:120px;padding:30px
+70px;bottom:50px;left:0px;line-height:24px;letter-spacing:2px;overflow:hidden}#indexSupportImage{width:660px;height:640px}#indexSupportImage
+li{width:220px;height:320px}#indexSupportImage
+img.pic{width:220px;height:320px}#indexSupportImage li.on
+a{border:1px
+solid #390042;width:220px;height:320px;left:-1px;top:-1px;z-index:10}#indexSupportImage li
+.info{top:165px;left:80px;width:70px}#indexSupportImage li .info
+img{width:60px;height:60px}#indexFloor
+.floor{margin-top:40px}.floors{overflow:hidden}.floor
+h4{background:none;position:relative;z-index:1000}.floor
+.floorCon{position:relative}.floor
+.item{position:absolute;z-index:3}.floor
+.item0{z-index:1}.floor .item
+a{display:block;text-align:center}.floor .item a
+img{margin:0
+auto;display:block}.floor
+.goods{position:relative;overflow:hidden}.floor .goods
+img{-webkit-transition:-webkit-transform .2s linear;-moz-transition:-moz-transform .2s linear;-o-transition:-o-transform .2s linear;transition:transform .2s linear}.floor .goods:hover
+img{z-index:7;-webkit-transform:scaleX(1.1) scaleY(1.1);-moz-transform:scaleX(1.1) scaleY(1.1);-ms-transform:scaleX(1.1) scaleY(1.1);-o-transform:scaleX(1.1) scaleY(1.1);transform:scaleX(1.1) scaleY(1.1)}.floor .goods
+.info{position:absolute;width:100%;bottom:0;overflow:hidden;z-index:10;text-align:center;color:#fff;font-size:14px;height:60px;background-color:rgba(0,0,0,.3);background-color:rgb(0,0,0)\0 }.floor .goods h4,.floor .goods
+p{margin:0
+30px;line-height:20px;height:20px;overflow:hidden}.floor .goods
+h4{margin-top:10px}.floor .goods
+.goodsOver{position:absolute;left:0;top:0;width:100%;height:100%;background:url("/imelai/images/index/entry.png") no-repeat center center;z-index:10;display:none}.floor .goods:hover
+.goodsOver{display:block}.floor .goods:hover
+.info{display:none}.floor
+.ad{position:relative;overflow:hidden}.floor .ad
+i{position:absolute;left:-100%;top:0;width:100%;height:100%;background-image:-moz-linear-gradient(0deg,rgba(255,255,255,0),rgba(255,255,255,0.5),rgba(255,255,255,0));background-image:-webkit-linear-gradient(0deg,rgba(255,255,255,0),rgba(255,255,255,0.5),rgba(255,255,255,0));transform:skewx(-25deg);-o-transform:skewx(-25deg);-moz-transform:skewx(-25deg);-ms-transform:skewx(-25deg);-webkit-transform:skewx(-25deg)}.floor .ad:hover
+i{left:150%;transition: .5s;-moz-transition: .5s;-o-transition: .5s;-webkit-transition: .5s;-ms-transition: .5s}.floor
+.diy{position:relative;overflow:hidden}.floor .diy
+.goodsOver{position:absolute;left:0;top:0;width:100%;height:100%;background:url("/imelai/images/index/entry.png") no-repeat center center;z-index:10;display:none}.floor .diy:hover
+.goodsOver{display:block}.floor .diy
+img{-webkit-transition:-webkit-transform .2s linear;-moz-transition:-moz-transform .2s linear;-o-transition:-o-transform .2s linear;transition:transform .2s linear}.floor .diy:hover
+img{z-index:7;-webkit-transform:scaleX(1.1) scaleY(1.1);-moz-transform:scaleX(1.1) scaleY(1.1);-ms-transform:scaleX(1.1) scaleY(1.1);-o-transform:scaleX(1.1) scaleY(1.1);transform:scaleX(1.1) scaleY(1.1)}.floor
+.extend{overflow:hidden;background:#fff;border:1px
+solid #C0C0C0;color:#000}.floor .categorys
+ul{overflow:hidden;height:175px}.floor .categorys
+li{width:75px;height:30px;line-height:30px;border:1px
+solid #C0C0C0;overflow:hidden}.floor .brands
+h4{border-top:1px solid #C0C0C0}.floor .brands h4
+span{left:50%;margin-left:-40px;top:-15px;width:80px;height:30px;line-height:30px;background-color:#FFF}.floor .brands
+img{width:90px;height:45px}.floorScrool{position:relative}.floorScrool
+.floorScroolCon{height:300px;width:90px;margin:0
+auto;overflow:hidden}.floorScrool
+.floorScroolCon{position:relative;width:90px;height:300px;text-align:center}.floorScrool .floorScroolCon
+li{width:90px;height:300px;position:relative}.floorScrool .floorScroolCon li
+a{margin-top:10px}.floorScrool
+.prev{position:absolute;left:10px;top:160px;background:url(/imelai/images/index/arrow.png) no-repeat;width:19px;height:21px;cursor:pointer}.floorScrool
+.next{position:absolute;right:10px;top:160px;background:url(/imelai/images/index/arrow.png) -19px 0px no-repeat;width:19px;height:21px;cursor:pointer}.animated{-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-fill-mode:both;animation-fill-mode:both}@-webkit-keyframes
+FadeOutFadeIn{0%{opacity:0.2}50%{opacity:1;transform:scale(1.2)}100%{opacity:0.2}}@keyframes
+FadeOutFadeIn{0%{opacity:0.2}50%{opacity:1;transform:scale(1.2)}100%{opacity:0.2}}.FadeOutFadeIn{-webkit-animation:FadeOutFadeIn 2s infinite ease-in-out;animation:FadeOutFadeIn 2s infinite ease-in-out}.FadeOutFadeIn1{-webkit-animation:FadeOutFadeIn 2s 0.2s infinite ease-in-out;animation:FadeOutFadeIn 2s 0.2s infinite ease-in-out}.FadeOutFadeIn2{-webkit-animation:FadeOutFadeIn 2s 0.4s infinite ease-in-out;animation:FadeOutFadeIn 2s 0.4s infinite ease-in-out}.FadeOutFadeIn3{-webkit-animation:FadeOutFadeIn 2s 0.6s infinite ease-in-out;animation:FadeOutFadeIn 2s 0.6s infinite ease-in-out}.FadeOutFadeIn4{-webkit-animation:FadeOutFadeIn 2s 0.8s infinite ease-in-out;animation:FadeOutFadeIn 2s 0.8s infinite ease-in-out}@-webkit-keyframes
+fadeInLeft{0%{opacity:0;-webkit-transform:translate3d(-100%,0,0);transform:translate3d(-100%,0,0)}100%{opacity:1;-webkit-transform:none;transform:none}}@keyframes
+fadeInLeft{0%{opacity:0;-webkit-transform:translate3d(-100%,0,0);transform:translate3d(-100%,0,0)}100%{opacity:1;-webkit-transform:none;transform:none}}.fadeInLeft{-webkit-animation-name:fadeInLeft;animation-name:fadeInLeft}@-webkit-keyframes
+myOpacity{0%{opacity:1}20%{opacity:0.8}100%{opacity:1}}@keyframes
+myOpacity{0%{opacity:1}20%{opacity:0.8}100%{opacity:1}}#indexNewSaleAd img:hover,img.lazy:hover{animation:myOpacity 1s}

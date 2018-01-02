@@ -1,0 +1,25 @@
+require.config({
+	baseUrl:"../js",
+	paths:{
+		"jquery":"lip/jquery-1.11.3",
+		"cookie":"lip/jquery.cookie",
+		"swiper":"pug/swiper.min",
+		"conmmon":"js/conmmon",
+		"index":"js/index",
+		"banner":"js/banner",
+		"index":"js/index",
+		"cloudzoom":"pug/cloudzoom",
+		"detail":"js/detail",
+		"shop":"js/shop"
+
+	},
+	//专门用来配置不兼容的模块
+	shim:{
+		cloudzoom:{
+			//需要依赖的模块
+			deps:["jquery"],
+			//暴露的类名
+			exports:"cloudzoom"
+		}	
+	}
+})

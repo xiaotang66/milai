@@ -1,0 +1,152 @@
+@charset "UTF-8";
+#header .center h5 {
+  width: 204px;
+}
+
+#header .center .menu-dl {
+  display: none;
+}
+
+.content {
+  font-size: 14px;
+}
+
+.content .center {
+  width: 1200px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.position {
+  font-size: 14px;
+  line-height: 40px;
+  color: #5e5e5e;
+}
+
+.magnifier {
+  float: left;
+  width: 650px;
+  height: 550px;
+  margin: 5px;
+}
+
+.magnifier ul {
+  float: left;
+}
+
+.magnifier ul li {
+  width: 80px;
+  height: 80px;
+  margin-top: 15px;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+}
+
+.circle {
+  position: absolute;
+  top: 0;
+  background: url("../images/index/blank.png") no-repeat center;
+  width: 80px;
+  height: 80px;
+  z-index: 2;
+}
+
+.magnifier ul li img {
+  width: 80px;
+  height: 80px;
+}
+
+.magnbox {
+  float: left;
+  width: 530px;
+  height: 530px;
+  position: relative;
+}
+
+.magnbox img {
+  max-height: 530px;
+  max-width: 530px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+}
+
+/*放大镜右边部分*/
+.magnifier-right {
+  width: 540px;
+  float: right;
+}
+
+.magnifier-right > i {
+  color: #7b7b7b;
+  font-size: 12px;
+  line-height: 20px;
+}
+
+.magnifier-right > p {
+  margin: 10px 0;
+  overflow: hidden;
+}
+
+.magnifier-right > p em {
+  font-size: 26px;
+  font-weight: 600;
+}
+
+.magnifier-right > p del {
+  font-size: 12px;
+  color: #767676;
+  padding-left: 5px;
+}
+
+.magnifier-right > p > i {
+  font-size: 12px;
+  text-align: right;
+  float: right;
+  margin-top: 15px;
+}
+
+.parameter span {
+  display: block;
+  margin: 30px 0;
+}
+
+.parameter span > i {
+  font-size: 12px;
+  color: #666666;
+  float: left;
+}
+
+.num {
+  height: 50px;
+  line-height: 50px;
+}
+
+.num input {
+  float: left;
+  width: 50px;
+  height: 30px;
+  margin-top: 10px;
+}
+
+.num span {
+  float: left;
+  diplay: block;
+  height: 30px;
+  width: 13px;
+  margin-top: -2px;
+}
+
+.num span a {
+  width: 12px;
+  height: 12px;
+  background-color: #f1f1f1;
+  line-height: 15px;
+  text-align: center;
+  border: 1px solid #ccc;
+  float: left;
+}

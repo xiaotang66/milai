@@ -1,0 +1,226 @@
+@charset "UTF-8";
+/*头部*/
+.headbox {
+  height: 110px;
+  background-color: #2d292f;
+}
+
+.center {
+  width: 1200px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.logo {
+  float: left;
+  margin-top: 18px;
+  margin-left: 60px;
+  color: #fff;
+  font-size: 16px;
+  width: 250spx;
+}
+
+.logo img {
+  float: left;
+}
+
+.logo p {
+  float: left;
+  margin-top: -3px;
+  padding-left: 5px;
+}
+
+.menue {
+  position: absolute;
+  top: 80px;
+  height: 518px;
+  z-index: 2;
+}
+
+.menue h5 {
+  font-size: 14px;
+  color: #fff;
+  font-weight: normal;
+  text-align: center;
+  line-height: 30px;
+  background-color: #f2457d;
+}
+
+.menu-dl {
+  background-color: rgba(242, 69, 125, 0.5);
+  height: 490px;
+}
+
+.menue dl {
+  padding: 10px 15px;
+  overflow: hidden;
+}
+
+.menue dt a {
+  font-size: 14px;
+  color: #fff;
+}
+
+.menue dd {
+  line-height: 30px;
+  display: block;
+  float: left;
+  margin: 0 5px;
+}
+
+.menue dd a {
+  font-size: 12px;
+  display: block;
+  line-height: 30px;
+  color: #fff;
+}
+
+.nav {
+  float: left;
+  margin-left: 100px;
+}
+
+.nav li {
+  float: left;
+  margin: 0 25px;
+}
+
+.nav li a {
+  font-size: 14px;
+  color: #fff;
+  line-height: 110px;
+  padding: 0 5px;
+}
+
+.nav .active a {
+  color: #f2457d;
+  border-top: 3px solid #f2457d;
+}
+
+.nav li a:hover {
+  color: #f2457d;
+}
+
+.search {
+  line-height: 110px;
+  float: left;
+}
+
+.search input {
+  width: 138px;
+  height: 22px;
+  line-height: 22px;
+  border-radius: 10px;
+  text-indent: 10px;
+  margin: 40px 0 0 60px;
+  float: left;
+}
+
+.search a {
+  float: left;
+  color: #fff;
+  font-size: 14px;
+  margin-left: 8px;
+}
+
+.login {
+  line-height: 110px;
+  float: right;
+  position: relative;
+}
+
+.login a {
+  float: left;
+  margin-left: 20px;
+  color: #fff;
+  font-size: 14px;
+}
+
+.login i {
+  width: 1px;
+  background-color: #556656;
+  position: absolute;
+  height: 14px;
+  top: 48px;
+}
+
+/*尾部*/
+.foot {
+  height: 410px;
+  background-color: #2d292f;
+  margin-top: 40px;
+}
+
+.web {
+  height: 240px;
+  border-bottom: 1px solid #4a444c;
+  overflow: hidden;
+}
+
+.web-pic {
+  margin-top: 20px;
+  float: left;
+}
+
+.web-list {
+  margin-left: 230px;
+  float: left;
+  margin-top: 46px;
+  text-align: left;
+}
+
+.web-list dl {
+  width: 150px;
+  float: left;
+  line-height: 25px;
+}
+
+.web-list dl dt {
+  color: #fff;
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+.web-list dl dd {
+  color: #a1a1a1;
+}
+
+.web-list dl dd a {
+  font-size: 14px;
+  color: #a1a1a1;
+}
+
+.foot-mesg {
+  color: #666;
+  margin-top: 20px;
+}
+
+.foot-mesg p {
+  line-height: 30px;
+  font-size: 12px;
+  overflow: hidden;
+}
+
+.foot-mesg p b {
+  float: left;
+}
+
+.foot-mesg p a {
+  float: left;
+  color: #666;
+  padding-left: 5px;
+}
+
+.foot-mesg p a:hover {
+  color: #f2457d;
+}
+
+.foot-pic {
+  overflow: hidden;
+}
+
+.foot-pic a {
+  float: left;
+  margin-top: 16px;
+  margin-right: 3px;
+}

@@ -1,0 +1,200 @@
+#header .center h5 {
+  width: 204px;
+}
+
+#header .center .menu-dl {
+  display: none;
+}
+
+.content {
+  width: 1200px;
+  margin: 0 auto;
+  margin-top: 30px;
+  font-size: 14px;
+  color: #666666;
+  position: relative;
+  z-index: 222;
+}
+
+.carhead {
+  height: 40px;
+  border: 1px solid #aaaaaa;
+  line-height: 40px;
+  overflow: hidden;
+  padding: 0 10px;
+}
+
+.carhead span {
+  float: left;
+  width: 10%;
+}
+
+.carhead span i {
+  padding-left: 15px;
+}
+
+.carhead p {
+  float: left;
+  text-align: center;
+}
+
+.p1 {
+  width: 30%;
+}
+
+.p2 {
+  width: 15%;
+}
+
+.message-list ul li {
+  min-height: 100px;
+  overflow: hidden;
+  border: 1px solid #aaaaaa;
+  margin: 20px 0;
+  padding: 0 10px;
+}
+
+.message-list ul li > p {
+  float: left;
+  line-height: 110px;
+  width: 120px;
+  text-align: center;
+}
+
+.detail {
+  float: left;
+  margin-top: 10px;
+}
+
+.detail input {
+  float: left;
+}
+
+.pic {
+  width: 82px;
+  height: 82px;
+  border: 1px solid #aaa;
+  float: left;
+  margin-left: 20px;
+}
+
+.pic img {
+  width: 82px;
+  height: 82px;
+}
+
+.detail-title {
+  margin: 10px 40px 0 15px;
+  float: left;
+  margin-top: 10px;
+  width: 330px;
+  font-size: 12px;
+  color: #666;
+}
+
+.calender {
+  float: left;
+  margin: 35px 62px 0;
+}
+
+.calender a {
+  width: 30px;
+  height: 28px;
+  border: 1px solid #ccc;
+  text-align: center;
+  line-height: 28px;
+}
+
+.add {
+  float: left;
+}
+
+.calender input {
+  float: left;
+  width: 40px;
+  height: 26px;
+  text-align: center;
+  line-height: 28px;
+}
+
+.reduce {
+  float: left;
+}
+
+.delbox {
+  width: 150px;
+  display: block;
+  float: left;
+  margin-top: 45px;
+  margin-left: 30px;
+}
+
+.delbox a {
+  float: left;
+  margin: 0 10px;
+  color: #666;
+  font-size: 12px;
+}
+
+.carbottom {
+  height: 60px;
+  border: 1px solid #aaa;
+  margin-top: -20px;
+  background-color: #f2f2f2;
+}
+
+.clear {
+  float: left;
+  margin-left: 10px;
+  margin-top: 15px;
+}
+
+.clear a {
+  float: left;
+  width: 80px;
+  height: 30px;
+  background-color: #a0a0a0;
+  color: #fff;
+  font-size: 14px;
+  margin-right: 10px;
+  text-align: center;
+  line-height: 30px;
+  border-radius: 5px;
+}
+
+.sumprice {
+  float: right;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+
+.sumprice p {
+  float: left;
+}
+
+.sumprice p i {
+  font-size: 20px;
+  color: #f2457d;
+}
+
+.sumprice p em {
+  color: #f2457d;
+}
+
+.sumprice p b {
+  color: #f2457d;
+  font-size: 26px;
+}
+
+.sumprice a {
+  float: right;
+  width: 140px;
+  height: 40px;
+  background-color: #f2457d;
+  color: #fff;
+  font-size: 20px;
+  line-height: 40px;
+  text-align: center;
+  border-radius: 5px;
+  margin: -10px 0 0 50px;
+}

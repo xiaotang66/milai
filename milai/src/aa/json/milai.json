@@ -1,0 +1,493 @@
+[
+    {
+        "top": [
+            {
+                "id": 1,
+                "pic": "../images/index/list1.jpg"
+            },
+            {
+                "id": 2,
+                "pic": "../images/index/list2.jpg"
+            },
+            {
+                "id": 3,
+                "pic": "../images/index/list3.jpg"
+            },
+            {
+                "id": 4,
+                "pic": "../images/index/list4.jpg"
+            }
+        ]
+    },
+    {
+        "conten": [
+            {
+                "id": 5,
+                "pic": "../images/index/list5.jpg",
+                "title":"三星（SAMSUNG） Galaxy Note8（SM-N9500）6GB+128GB 移动联通电信4G手机 双卡双待 谜夜黑",
+                "num":"LGGO040837",
+                "price":"￥7388.00 ",
+                "brand":"三星（SAMSUNG）",
+                "smallpic":{
+                    "small1":"../images/detail/small5.1.jpg",
+                    "small2":"../images/detail/small5.2.jpg",
+                    "small3":"../images/detail/small5.3.jpg",
+                    "small4":"../images/detail/small5.4.jpg",
+                    "small5":"../images/detail/small5.5.jpg"
+                },
+                "shoppic":{
+                    "shop1":"../images/detail/shop5.1.jpg",
+                    "shop2":"../images/detail/shop5.2.jpg",
+                    "shop3":"../images/detail/shop5.3.jpg",
+                    "shop4":"../images/detail/shop5.4.jpg",
+                    "shop5":"../images/detail/shop5.5.jpg"
+                }
+            },
+            {
+                "id": 6,
+                "pic": "../images/index/list6.jpg",
+                "title":"Bose QuietControl 30 无线耳机 QC30耳塞式蓝牙降噪耳麦",
+                "num":"LGGO040688",
+                "price":"￥2498.00",
+                "brand":" Bose ",
+                "smallpic":{
+                    "small1":"../images/detail/small6.1.jpg",
+                    "small2":"../images/detail/small6.2.jpg",
+                    "small3":"../images/detail/small6.3.jpg",
+                    "small4":"../images/detail/small6.4.jpg",
+                    "small5":"../images/detail/small6.5.jpg"
+                },
+                "shoppic":{
+                    "shop1":"../images/detail/shop6.1.jpg",
+                    "shop2":"../images/detail/shop6.2.jpg",
+                    "shop3":"../images/detail/shop6.3.jpg",
+                    "shop4":"../images/detail/shop6.4.jpg",
+                    "shop5":"../images/detail/shop6.5.jpg"
+                }
+            },
+            {
+                "id": 7,
+                "pic": "../images/index/list7.jpg",
+                "title":"Bose QuietControl 30 无线耳机 QC30耳塞式蓝牙降噪耳麦",
+                "num":"LGGO040688",
+                "price":"￥2498.00",
+                "brand":" Bose ",
+                "smallpic":{
+                    "small1":"../images/detail/small7.1.jpg",
+                    "small2":"../images/detail/small7.2.jpg",
+                    "small3":"../images/detail/small7.3.jpg",
+                    "small4":"../images/detail/small7.4.jpg",
+                    "small5":"../images/detail/small7.5.jpg"
+                },
+                "shoppic":{
+                    "shop1":"../images/detail/shop7.1.jpg",
+                    "shop2":"../images/detail/shop7.2.jpg",
+                    "shop3":"../images/detail/shop7.3.jpg",
+                    "shop4":"../images/detail/shop7.4.jpg",
+                    "shop5":"../images/detail/shop7.5.jpg"
+                }
+            },
+            {
+                "id": 8,
+                "pic": "../images/index/list8.jpg",
+                "title":"三星（SAMSUNG） Galaxy Note8（SM-N9500）6GB+128GB 移动联通电信4G手机 双卡双待 谜夜黑",
+                "num":"LGGO040837",
+                "price":"￥7388.00 ",
+                "brand":"三星（SAMSUNG）",
+                "smallpic":{
+                    "small1":"../images/detail/small8.1.jpg",
+                    "small2":"../images/detail/small8.2.jpg",
+                    "small3":"../images/detail/small8.3.jpg",
+                    "small4":"../images/detail/small8.4.jpg",
+                    "small5":"../images/detail/small8.5.jpg"
+                },
+                "shoppic":{
+                    "shop1":"../images/detail/shop8.1.jpg",
+                    "shop2":"../images/detail/shop8.2.jpg",
+                    "shop3":"../images/detail/shop8.3.jpg",
+                    "shop4":"../images/detail/shop8.4.jpg",
+                    "shop5":"../images/detail/shop8.5.jpg"
+                }
+            },
+            {
+                "id": 9,
+                "pic": "../images/index/list9.jpg",
+                "title":"三星（SAMSUNG） Galaxy Note8（SM-N9500）6GB+128GB 移动联通电信4G手机 双卡双待 谜夜黑",
+                "num":"LGGO040837",
+                "price":"￥7388.00 ",
+                "brand":"三星（SAMSUNG）",
+                "smallpic":{
+                    "small1":"../images/detail/small9.1.jpg",
+                    "small2":"../images/detail/small9.2.jpg",
+                    "small3":"../images/detail/small9.3.jpg",
+                    "small4":"../images/detail/small9.4.jpg",
+                    "small5":"../images/detail/small9.5.jpg"
+                },
+                "shoppic":{
+                    "shop1":"../images/detail/shop9.1.jpg",
+                    "shop2":"../images/detail/shop9.2.jpg",
+                    "shop3":"../images/detail/shop9.3.jpg",
+                    "shop4":"../images/detail/shop9.4.jpg",
+                    "shop5":"../images/detail/shop9.5.jpg"
+                }
+            },
+            {
+                "id": 10,
+                "pic": "../images/index/list10.jpg",
+                "title":"三星（SAMSUNG） Galaxy Note8（SM-N9500）6GB+128GB 移动联通电信4G手机 双卡双待 谜夜黑",
+                "num":"LGGO040837",
+                "price":"￥7388.00 ",
+                "brand":"三星（SAMSUNG）",
+                "smallpic":{
+                    "small1":"../images/detail/small10.1.jpg",
+                    "small2":"../images/detail/small10.2.jpg",
+                    "small3":"../images/detail/small10.3.jpg",
+                    "small4":"../images/detail/small10.4.jpg",
+                    "small5":"../images/detail/small10.5.jpg"
+                },
+                "shoppic":{
+                    "shop1":"../images/detail/shop10.1.jpg",
+                    "shop2":"../images/detail/shop10.2.jpg",
+                    "shop3":"../images/detail/shop10.3.jpg",
+                    "shop4":"../images/detail/shop10.4.jpg",
+                    "shop5":"../images/detail/shop10.5.jpg"
+                }
+            },
+            {
+                "id": 11,
+                "pic": "../images/index/list11.jpg",
+                "pric": "￥259.00",
+                "intruct": " 乐美雅（Luminarc） 法国进口琥珀锅玻璃直烧锅汤锅耐高温 1L诺基亚(NOKIA) Go 智能手环 智能穿戴 电子墨水屏 运动跟踪 睡眠监测 游泳防水 时间显示 绿色 withings",
+                "title":"三星（SAMSUNG） Galaxy Note8（SM-N9500）6GB+128GB 移动联通电信4G手机 双卡双待 谜夜黑",
+                "num":"LGGO040837",
+                "price":"￥7388.00 ",
+                "brand":"三星（SAMSUNG）",
+                "smallpic":{
+                    "small1":"../images/detail/small11.1.jpg",
+                    "small2":"../images/detail/small11.2.jpg",
+                    "small3":"../images/detail/small11.3.jpg",
+                    "small4":"../images/detail/small11.4.jpg",
+                    "small5":"../images/detail/small11.5.jpg"
+                },
+                "shoppic":{
+                    "shop1":"../images/detail/shop11.1.jpg",
+                    "shop2":"../images/detail/shop11.2.jpg",
+                    "shop3":"../images/detail/shop11.3.jpg",
+                    "shop4":"../images/detail/shop11.4.jpg",
+                    "shop5":"../images/detail/shop11.5.jpg"
+                }
+            },
+            {
+                "id": 12,
+                "pic": "../images/index/list12.jpg",
+                "pric": "￥388.00",
+                "intruct": " 诺基亚(NOKIA) Go 智能手环 智能穿戴 电子墨水屏 运动跟踪 睡眠监测 游泳防水 时间显示 绿色 withingsartiart 台湾兔爷存钱罐卡通储蓄罐礼物女小巧可爱不怕摔小号 粉色",
+                "title":"三星（SAMSUNG） Galaxy Note8（SM-N9500）6GB+128GB 移动联通电信4G手机 双卡双待 谜夜黑",
+                "num":"LGGO040837",
+                "price":"￥7388.00 ",
+                "brand":"三星（SAMSUNG）",
+                "smallpic":{
+                    "small1":"../images/detail/small12.1.jpg",
+                    "small2":"../images/detail/small12.2.jpg",
+                    "small3":"../images/detail/small12.3.jpg",
+                    "small4":"../images/detail/small12.4.jpg",
+                    "small5":"../images/detail/small12.5.jpg"
+                },
+                "shoppic":{
+                    "shop1":"../images/detail/shop12.1.jpg",
+                    "shop2":"../images/detail/shop12.2.jpg",
+                    "shop3":"../images/detail/shop12.3.jpg",
+                    "shop4":"../images/detail/shop12.4.jpg",
+                    "shop5":"../images/detail/shop12.5.jpg"
+                }
+
+            },
+            {
+                "id": 13,
+                "pic": "../images/index/list13.jpg",
+                "pric": "￥69.00",
+                "intruct": " artiart 台湾兔爷存钱罐卡通储蓄罐礼物女小巧可爱不怕摔小号 粉色【巴萨限量版】OPPO R11 全网通4G+64G 双卡双待手机 红蓝碰撞",
+                "title":"三星（SAMSUNG） Galaxy Note8（SM-N9500）6GB+128GB 移动联通电信4G手机 双卡双待 谜夜黑",
+                "num":"LGGO040837",
+                "price":"￥7388.00 ",
+                "brand":"三星（SAMSUNG）",
+                "smallpic":{
+                    "small1":"../images/detail/small13.1.jpg",
+                    "small2":"../images/detail/small13.2.jpg",
+                    "small3":"../images/detail/small13.3.jpg",
+                    "small4":"../images/detail/small13.4.jpg",
+                    "small5":"../images/detail/small13.5.jpg"
+                },
+                "shoppic":{
+                    "shop1":"../images/detail/shop13.1.jpg",
+                    "shop2":"../images/detail/shop13.2.jpg",
+                    "shop3":"../images/detail/shop13.3.jpg",
+                    "shop4":"../images/detail/shop13.4.jpg",
+                    "shop5":"../images/detail/shop13.5.jpg"
+                }
+            },
+            {
+                "id": 14,
+                "pic": "../images/index/list14.jpg",
+                "pric": "￥3499.00",
+                "intruct": " 【巴萨限量版】OPPO R11 全网通4G+64G 双卡双待手机 红蓝碰撞白 天然茶籽除菌皂粉680g",
+                "title":"三星（SAMSUNG） Galaxy Note8（SM-N9500）6GB+128GB 移动联通电信4G手机 双卡双待 谜夜黑",
+                "num":"LGGO040837",
+                "price":"￥7388.00 ",
+                "brand":"三星（SAMSUNG）",
+                "smallpic":{
+                    "small1":"../images/detail/small14.1.jpg",
+                    "small2":"../images/detail/small14.2.jpg",
+                    "small3":"../images/detail/small14.3.jpg",
+                    "small4":"../images/detail/small14.4.jpg",
+                    "small5":"../images/detail/small14.5.jpg"
+                },
+                "shoppic":{
+                    "shop1":"../images/detail/shop14.1.jpg",
+                    "shop2":"../images/detail/shop14.2.jpg",
+                    "shop3":"../images/detail/shop14.3.jpg",
+                    "shop4":"../images/detail/shop14.4.jpg",
+                    "shop5":"../images/detail/shop14.5.jpg"
+                }
+            },
+            {
+                "id": 15,
+                "pic": "../images/index/list15.jpg",
+                "pric": " ￥9.90",
+                "intruct": "立白 天然茶籽除菌皂粉680g",
+                "title":"三星（SAMSUNG） Galaxy Note8（SM-N9500）6GB+128GB 移动联通电信4G手机 双卡双待 谜夜黑",
+                "num":"LGGO040837",
+                "price":"￥7388.00 ",
+                "brand":"三星（SAMSUNG）",
+                "smallpic":{
+                    "small1":"../images/detail/small15.1.jpg",
+                    "small2":"../images/detail/small15.2.jpg",
+                    "small3":"../images/detail/small15.3.jpg",
+                    "small4":"../images/detail/small15.4.jpg",
+                    "small5":"../images/detail/small15.5.jpg"
+                },
+                "shoppic":{
+                    "shop1":"../images/detail/shop15.1.jpg",
+                    "shop2":"../images/detail/shop15.2.jpg",
+                    "shop3":"../images/detail/shop15.3.jpg",
+                    "shop4":"../images/detail/shop15.4.jpg",
+                    "shop5":"../images/detail/shop15.5.jpg"
+                }
+            }
+        ]
+  },
+    {
+        "life": [
+            {
+                "id":"16",
+                "pic": "../images/index/sh.jpg",
+                "bigpic": "../images/index/list16.jpg"
+            },
+            {
+              "id":"25",
+              "pic": "../images/index/jw.jpg",
+              "bigpic": "../images/index/list25.jpg"
+            },
+            {
+              "id":"36",
+              "pic": "../images/index/cf.jpg",
+              "bigpic": "../images/index/list36.jpg"
+            },
+            {
+              "id":"45",
+              "pic": "../images/index/zn.jpg",
+              "bigpic": "../images/index/list45.jpg"
+            },
+            {
+                "id":"53",
+                "pic":"../images/index/phone.jpg",
+                "bigpic": "../images/index/list53.jpg"
+            }
+        ]
+     },
+        {"shop":[
+            {
+                "id": 17,
+                "pic": "../images/index/list17.jpg",
+                "title":"雅萌(YAMAN) GR-16LZ 美容器 EMS铂金滚轮 提拉紧致 家用美容仪 日本进口 极光色",
+                "num":"LGGO040667",
+                "price":"￥2199.00",
+                "brand":"雅萌（YA-MAN）",
+                "smallpic":{
+                    "small1":"../images/detail/small7.1.jpg",
+                    "small2":"../images/detail/small7.2.jpg",
+                    "small3":"../images/detail/small7.3.jpg",
+                    "small4":"../images/detail/small7.4.jpg",
+                    "small5":"../images/detail/small7.5.jpg"
+                },
+                "shoppic":{
+                    "shop1":"../images/detail/shop7.1.jpg",
+                    "shop2":"../images/detail/shop7.2.jpg",
+                    "shop3":"../images/detail/shop7.3.jpg",
+                    "shop4":"../images/detail/shop7.4.jpg",
+                    "shop5":"../images/detail/shop7.5.jpg"
+                }
+            },
+            {
+                "id": 18,
+                "pic": "../images/index/list18.jpg"
+            },
+            {
+                "id": 19,
+                "pic": "../images/index/list19.jpg"
+            },
+            {
+                "id": 20,
+                "pic": "../images/index/list21.jpg"
+            },
+            {
+                "id": 22,
+                "pic": "../images/index/list23.jpg"
+            },
+            {
+                "id": 24,
+                "pic": "../images/index/list24.jpg"
+            },
+            {
+                "id": 26,
+                "pic": "../images/index/list26.jpg"
+            },
+            {
+                "id": 27,
+                "pic": "../images/index/list27.jpg"
+            },
+            {
+                "id": 28,
+                "pic": "../images/index/list28.jpg"
+            },
+            {
+                "id": 31,
+                "pic": "../images/index/list31.jpg"
+            },
+            {
+                "id": 32,
+                "pic": "../images/index/list17.jpg"
+            },
+            {
+                "id": 33,
+                "pic": "../images/index/list33.jpg"
+            },
+            {
+                "id": 34,
+                "pic": "../images/index/list34.jpg"
+            },
+            {
+                "id": 35,
+                "pic": "../images/index/list35.jpg"
+            },
+            {
+                "id": 37,
+                "pic": "../images/index/list37.jpg"
+            },
+            {
+                "id": 38,
+                "pic": "../images/index/list17.jpg"
+            },
+            {
+                "id": 33,
+                "pic": "../images/index/list33.jpg"
+            },
+            {
+                "id": 34,
+                "pic": "../images/index/list34.jpg"
+            },
+            {
+                "id": 35,
+                "pic": "../images/index/list35.jpg"
+            },
+            {
+                "id": 37,
+                "pic": "../images/index/list37.jpg"
+            },
+            {
+                "id": 38,
+                "pic": "../images/index/list38.jpg"
+            },
+            {
+                "id": 39,
+                "pic": "../images/index/list39.jpg"
+            },
+            {
+                "id": 40,
+                "pic": "../images/index/list40.jpg"
+            },
+            {
+                "id": 41,
+                "pic": "../images/index/list41.jpg"
+            },
+            {
+                "id": 42,
+                "pic": "../images/index/list43.jpg"
+            },
+            {
+                "id": 44,
+                "pic": "../images/index/list44.jpg"
+            },
+            {
+                "id": 46,
+                "pic": "../images/index/list46.jpg"
+            },
+            {
+                "id": 47,
+                "pic": "../images/index/list47.jpg"
+            },
+            {
+                "id": 48,
+                "pic": "../images/index/list48.jpg"
+            },
+            {
+                "id": 49,
+                "pic": "../images/index/list49.jpg"
+            },
+            {
+                "id": 50,
+                "pic": "../images/index/list50.jpg"
+            },
+            {
+                "id": 51,
+                "pic": "../images/index/list51.jpg"
+            },
+            {
+                "id": 52,
+                "pic": "../images/index/list52.jpg"
+            },
+            {
+                "id": 54,
+                "pic": "../images/index/list54.jpg"
+            },
+            {
+                "id": 55,
+                "pic": "../images/index/list55.jpg"
+            },
+            {
+                "id": 56,
+                "pic": "../images/index/list56.jpg"
+            },
+            {
+                "id": 57,
+                "pic": "../images/index/list57.jpg"
+            },
+            {
+                "id": 58,
+                "pic": "../images/index/list58.jpg"
+            },
+            {
+                "id": 59,
+                "pic": "../images/index/list59.jpg"
+            },
+            {
+                "id": 60,
+                "pic": "../images/index/list60.jpg"
+            },
+            {
+                "id": 61,
+                "pic": "../images/index/list59.jpg"
+            }
+        ]
+    }
+]
